@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">5.2RadioButton</string>
+    <string name="myName">28號黃漢昇</string>
+    <string name="hint">請輸入</string>
+    <string name="nospace">年齡輸入空白</string>
+</resources>
